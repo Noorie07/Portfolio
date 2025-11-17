@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Abhishek Kumar</h3>
+          <h3>Designed and Developed by Noorie Parveen</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} AK</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/cs-abhishek"
+                href="https://github.com/noorie07"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

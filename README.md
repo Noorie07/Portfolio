@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://Abhishek.vercel.app/" target="_blank">Abhishek.tech</a>
+  target="_blank">Noorie.tech</a>
 </h2>
 <!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -18,20 +18,11 @@
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href=("https://github.com/cs-abhishek/Portfolio.git")>Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/cs-abhishek/Portfolio.git">Request Feature</a>
-</h3>
-
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to Github will be updated soon Thanks!
 
 ## Built With
-
-My personal portfolio <a [href="(https://portfolio-ucgk.vercel.app/)" target="_blank">Abhishek.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -72,4 +63,3 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
-
